@@ -5,14 +5,14 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcele em ate 12x / em breve boletos parcelados"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Trocas e devoluções por defeito de fabricação ou erro no envio: Em casos onde a mercadoria apresente danos ou se houver qualquer erro no envio, nós nos responsabilizaremos por todos os custos de devolução e reenvio.  Trocas por outros motivos: Para trocas que não se enquadrem em defeitos ou envios errados, como trocas de tamanho, cor ou preferência pessoal, os custos de frete tanto da devolução quanto do reenvio da mercadoria serão de responsabilidade do cliente.  Caso tenha dúvidas, entre em contato com nossa equipe de suporte para auxiliá-lo(a) no processo.  Atenciosamente, Marceneiro Feliz."
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Aqui no Marceneiro Feliz Clube VIP, não trabalhamos com descontos ou promoções porque você já está pagando o melhor preço, sempre. Nosso compromisso é oferecer produtos de qualidade pelo preço de custo, garantindo que você nunca pague mais do que o necessário.  Não utilizamos estratégias de “promoções ilusórias”. Qualquer reajuste que recebemos de nossos fornecedores — seja para cima ou para baixo — é imediatamente repassado a você, sem acréscimos de margem de lucro. Isso significa que, quando você compra conosco, está adquirindo um produto de qualidade pelo valor real."
   }
 }
