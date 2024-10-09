@@ -98,12 +98,6 @@
     </url>
   
     <url>
-      <loc>https://marceneirofelizclube.online/dominus-3-portas-rometal-c155-c531-c297-c904</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://marceneirofelizclube.online/parafuso-chipboard-40x16-500un-thor-coleman</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -117,6 +111,18 @@
   
     <url>
       <loc>https://marceneirofelizclube.online/parafuso-chipboard-40x16-500un-thor-coleman-c559-c443</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://marceneirofelizclube.online/dominus-3-portas-rometal-c155-c531-c297-c904-c486</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://marceneirofelizclube.online/dominus-3-portas-rometal-c155-c450</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -152,25 +158,25 @@
     </url>
   
     <url>
-      <loc>https://marceneirofelizclube.online/pages/entrega</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://marceneirofelizclube.online/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://marceneirofelizclube.online/pages/privacidade</loc>
+      <loc>https://marceneirofelizclube.online/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://marceneirofelizclube.online/pages/pagamentos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://marceneirofelizclube.online/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
