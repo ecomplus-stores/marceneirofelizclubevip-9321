@@ -158,12 +158,6 @@
     </url>
   
     <url>
-      <loc>https://marceneirofelizclube.online/pages/faq</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://marceneirofelizclube.online/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -171,6 +165,12 @@
   
     <url>
       <loc>https://marceneirofelizclube.online/pages/pagamentos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://marceneirofelizclube.online/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
