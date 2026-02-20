@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.146439ef6650632d1912c372c0bf58c3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.d3d2fc836cd70657bfde2bb92f7722d8.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.7e5d7e99c0c1eed429fb828b03f2a7ac.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.c57fc9feb97706698a4b368af194c405.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.a9ef9e811cbe85ff14931ec260c3557a.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Marceneiro Feliz Clube VIP",
+  "short_name": "Marceneiro Feliz ",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "\nNo Marceneiro Feliz Clube VIP, nosso objetivo é trazer preços de fábrica diretamente para você, sem burocracia e sem exigência de pedido mínimo. Queremos simplificar sua compra, oferecendo qualidade e economia de forma acessível para todos! ",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
